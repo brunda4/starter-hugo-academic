@@ -1,0 +1,9 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+
+ <g>
+  <title>Layer 1</title>
+  <path id="svg_3" d="m279,196" opacity="NaN" stroke="#000" fill="#fff"/>
+  <path id="svg_4" d="m247.79502,285.75644l62.78572,-115.5l167.42857,0l62.7857,115.5l-62.7857,115.5l-167.42857,0l-62.78572,-115.5z" stroke="#000" fill="#fff"/>
+  <text transform="matrix(2.77487 0 0 3.23077 -622.173 -621.385)" stroke="#000" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_8" y="287" x="335" stroke-width="2" fill="#000000">{S30}</text>
+ </g>
+</svg>

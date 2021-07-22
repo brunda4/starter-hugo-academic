@@ -24,26 +24,45 @@ date_format: Jan 2006
 experience:
   - title: Student Assistant/Intern
     company: Caltrans,D11
-    company_url: ''
+    company_url: 'https://dot.ca.gov/caltrans-near-me/district-11'
     company_logo: org-cal
     location: California
     date_start: '2021-07-21'
     date_end: ''
     description: |2-
-        Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Debugged PHP script to generate .csv files after parsing XML files consisting of more than 300k rows of Traffic Data generated every minute
+        * Assist in organizing, collecting and gathering required traffic data that meet departmental guidelines.
+        * Assists in testing and maintenance of ActiveITS components such as servers, hubs, and workstations.
+        * Assist in filing project folders, reports, correspondence, and other material, and archiving various documents
+        * Assist in developing graphs and charts using Excel, Access, Crystal Reports and any other charting software.
+        * Assists in research, analysis, review, and other related activities in the department
         
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  - title: Data Structures and Algorithms Interviewer
+    company: S30 ELearning
+    company_url: 'https://www.thes30.com/'
+    company_logo: org-s30
+    location: 
+    date_start: '2016-07-25'
+    date_end: ''
+    description: |2-
+    
+        * {S30} is an Online interview preparation platform that trains brilliant minds to land their dream jobs.
+        * Mentor {S30} members in their interview preparations
+        * Conducts mock interviews
+  
+  - title: Peer Mentor
+    company: California State University-Sacramento
+    company_url: 'https://www.csus.edu/undergraduate-studies/mentors-advisors/peer-mentors.html'
+    company_logo: org-csu
+    location: Sacramento,CA
+    date_start: '2020-07-24'
+    date_end: ''
+    description: |2-
+    
+        * {S30} is an Online interview preparation platform that trains brilliant minds to land their dream jobs.
+        * Mentor {S30} members in their interview preparations
+        * Conducts mock interviews
 
 design:
   columns: '2'
