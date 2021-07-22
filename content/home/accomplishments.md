@@ -55,6 +55,14 @@ item:
   organization_url: https://www.coursera.org
   title: Share Data Through the Art of Visualization
   url: https://www.coursera.org/account/accomplishments/certificate/2C9Q5XP75SWA
+- certificate_url: https://www.coursera.org/account/accomplishments/certificate/DMTPWXR97PGL
+  date_end: ""
+  date_start: "2021-07-01"
+  description:  
+  organization: Google with coursera
+  organization_url: https://www.coursera.org
+  title: Analyze Data to Answer Questions
+  url: https://www.coursera.org/account/accomplishments/certificate/DMTPWXR97PGL
 
 design:
   columns: '2' 
