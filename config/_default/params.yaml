@@ -7,7 +7,7 @@
 
 theme: Rose
 day_night: true
-font: ''
+font: 'futuristic'
 font_size: L
 
 # SEO
@@ -33,22 +33,11 @@ coordinates:
   longitude: '-122.1697'
 
 contact_links:
-  - icon: twitter
+  - icon: linkedin
     icon_pack: fab
-    name: DM Me
-    link: 'https://twitter.com/Twitter'
-  - icon: skype
-    icon_pack: fab
-    name: Skype Me
-    link: 'skype:echo123?call'
-  - icon: keybase
-    icon_pack: fab
-    name: Chat on Keybase
-    link: 'https://keybase.io/'
-  - icon: comments
-    icon_pack: fas
-    name: Discuss on Forum
-    link: 'https://discourse.gohugo.io'
+    name: Connect
+    link: 'https://www.linkedin.com/in/brundas/'
+
 
 # Site header
 
