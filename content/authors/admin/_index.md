@@ -28,6 +28,9 @@ education:
   - course: MS in Computer Science
     institution: California State University-Sacramento
     year: 2021
+  - course: Google Data Analytics Specialization
+    institution: Google with Cousera
+    year: 2021
   - course: BE in Computer Science
     institution: Visveswaraya Technological University
     year: 2019
