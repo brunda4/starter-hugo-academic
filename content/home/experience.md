@@ -60,9 +60,17 @@ experience:
     date_end: ''
     description: |2-
     
-        * {S30} is an Online interview preparation platform that trains brilliant minds to land their dream jobs.
-        * Mentor {S30} members in their interview preparations
-        * Conducts mock interviews
+        * Attend one First Year Seminar (FYS) class each week (1-2 hours)
+        * Create email/phone contact list for students in Seminar
+        * Plan and lead classroom discussions and activities surrounding the FYS Reader and/or the campus One Book.
+        * Assist in the coordination of guest speakers from on-campus student services departments.
+        * Coordinate and organize productive study groups for First-Year Seminar courses, as needed.
+        * Assist with the co-curricular activity selected by faculty, including, but not limited to: the One Book, Writing Partners, Leadership Initiative, One World, and Peak Adventures Challenge Course.
+        * Conduct time management, study skills, general education, registration, and other workshops/presentations as requested by faculty or needed by the students.
+        * Lead icebreakers and team-building activities.
+        * Deliver announcements regarding campus events and activities, study groups, and mandatory student meetings.
+        * Motivate and encourage assigned students to attend FYE and campus-hosted events.
+       
 
 design:
   columns: '2'
