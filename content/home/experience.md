@@ -71,6 +71,18 @@ experience:
         * Deliver announcements regarding campus events and activities, study groups, and mandatory student meetings.
         * Motivate and encourage assigned students to attend FYE and campus-hosted events.
        
+  - title: Web Development Intern
+    company: Abhyudaya (NGO)
+    company_url: 'https://abhyudayakkss.org/'
+    company_logo: org-ngo
+    location: 
+    date_start: '2018-08-01'
+    date_end: '2018-11-01'
+    description: |2-
+    
+        * Worked in a team on developing a Web application that sells handmade goods made by underprivileged women
+        * Built and deployed user Interface using PHP and JavaScript at the front end; integrated with SQL at the backend
+        * Web app reduced paperwork for NGO, and generated 22% more revenue.
 
 design:
   columns: '2'
