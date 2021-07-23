@@ -71,7 +71,7 @@ item:
   organization_url: https://www.coursera.org
   title: Process Data from Dirty to Clean
   url: https://www.coursera.org/account/accomplishments/certificate/RD3DZVTRTFQL
-- certificate_url: https://https://www.coursera.org/account/accomplishments/certificate/8C8HCJR2DSB7
+- certificate_url: https://www.coursera.org/account/accomplishments/certificate/8C8HCJR2DSB7
   date_end: ""
   date_start: "2021-06-01"
   description: Well, Just finished exploring different kinds of data a Data Analyst encounters and several methods of how the data is handled with care! I got to explore various datasets using spreadsheets and SQL on the BigQuery platform, hands-on experience working with different data types and formats, sneak-a-peek into Data Modeling, perform data transformation on datasets, understand data bias and how to avoid them, Data ethics, Data privacy, importance of data organization and data protection. 
