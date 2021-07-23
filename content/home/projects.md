@@ -25,12 +25,12 @@ content:
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
-  - name: All
+  - name: Data analytics/Management
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
+  - name: Web Development
+    tag: 'Web Development'
   - name: Other
-    tag: Demo
+    tag: '*'
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
