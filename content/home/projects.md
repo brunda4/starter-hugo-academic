@@ -26,10 +26,10 @@ content:
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
   - name: Data analytics/Management
-    tag: '*'
+    tag: 'Dam'
   - name: Web Development
-    tag: 'Web Development'
-  - name: Other
+    tag: 'WD'
+  - name: All
     tag: '*'
 
 design:
@@ -41,7 +41,7 @@ design:
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view: 2
+  view: 3
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
