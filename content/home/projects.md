@@ -27,10 +27,12 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Data analytics/Management
-    tag: 'Data analytics/Management'
+  - name: Data Projects
+    tag:  'Data Projects'
   - name: Web Development
-    tag: 'Web Development'
+    tag:  'Web Development'
+  - name: Others
+    tag:  'other'
   
 
 design:

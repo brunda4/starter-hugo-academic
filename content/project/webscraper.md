@@ -2,7 +2,7 @@
 title: Covid-19 and Vaccination tracker using self-Designed Web Scraper
 summary: The Project aims at parsing all the dynamic web pages containing Covid-19 data.The collected Covid-19 data is then subjected to cleaning, preparing and processing. The data will later be visualized and presented as an interactive User Interface.
 tags:
-- Data analytics/Management
+- Data Projects
 date: "2021-12-15T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
