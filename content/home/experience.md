@@ -43,7 +43,7 @@ experience:
     company_url: 'https://www.thes30.com/'
     company_logo: org-s30
     location: 
-    date_start: '2016-07-25'
+    date_start: '2021-07-25'
     date_end: ''
     description: |2-
     
@@ -75,7 +75,7 @@ experience:
     company: Abhyudaya (NGO)
     company_url: 'https://abhyudayakkss.org/'
     company_logo: org-ngo
-    location: 
+    location: Bengaluru,India
     date_start: '2018-08-01'
     date_end: '2018-11-01'
     description: |2-
