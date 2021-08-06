@@ -37,9 +37,9 @@ tags: []
 #- icon: twitter
 # icon_pack: fab
 #name: Follow
-url: "uploads/cyclistic_bike.html"
+#url: "uploads/cyclistic_bike.html"
 #url_code: ""
-#url_pdf: "uploads/cyclistic_bike.pdf"
+url_pdf: "uploads/cyclistic_bike.pdf"
 #url_slides: "uploads/cyclistic_bike.html"
 #url_video: ""
 
