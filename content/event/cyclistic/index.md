@@ -13,12 +13,13 @@ title: Cyclistic Bike-Share
 #  country: United States
 
 summary: Google Data Analytics Capstone
+abstract: The Google Data Analytics Capstone provides a roadmap to a case study. In the current case study, Bike riders data has been provided for several years with a Scenario and Business task. As ajunior data analyst a case study is to be completed with the problem at hand.In the pdf file attached above, find the R markdown file  consisting of the analysis knitted into pdf.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2020-08-05T00:00:00Z"
+date: "2021-08-05T00:00:00Z"
 #date_end: "2030-06-01T15:00:00Z"
-#all_day: false
+all_day: true
 
 # Schedule page publish date (NOT talk date).
 #publishDate: "2017-01-01T00:00:00Z"
