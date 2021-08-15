@@ -111,6 +111,22 @@ item:
   organization_url: https://www.coursera.org
   title: Cloud Computing Basics (Cloud 101)
   url: https://www.coursera.org/account/accomplishments/certificate/DSKL598CYT4G
+- certificate_url: https://verify.skilljar.com/c/e9fbq46sh8ge
+  date_end: ""
+  date_start: "2021-08-15"
+  description: ""
+  organization: Hewlett Packard Enterprise
+  organization_url: https://www.hpe.com/us/en/home.html
+  title: Apache Hadoop Essentials
+  url: "https://verify.skilljar.com/c/e9fbq46sh8ge"
+- certificate_url: https://verify.skilljar.com/c/7dsivdnv4m3a
+  date_end: ""
+  date_start: "2021-08-15"
+  description: ""
+  organization: Hewlett Packard Enterprise
+  organization_url: https://www.hpe.com/us/en/home.html
+  title: Introduction to Big Data
+  url: "https://verify.skilljar.com/c/7dsivdnv4m3a"
 
 
 
