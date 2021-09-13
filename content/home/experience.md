@@ -26,7 +26,7 @@ experience:
     company: Caltrans,D11
     company_url: 'https://dot.ca.gov/caltrans-near-me/district-11'
     company_logo: org-cal
-    location: California
+    location: San Diego,CA
     date_start: '2021-07-21'
     date_end: ''
     description: |2-
@@ -42,7 +42,7 @@ experience:
     company: California State University , Sacramento
     company_url: 'https://www.csus.edu/graduate-studies/unit-11/job-listings.html'
     company_logo: org-csu
-    location: California
+    location: Sacramento,CA
     date_start: '2021-09-01'
     date_end: ''
     description: |2-
