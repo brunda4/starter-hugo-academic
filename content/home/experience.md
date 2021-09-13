@@ -47,9 +47,10 @@ experience:
     date_end: ''
     description: |2-
         
-        * Assist Professor with Instruction, Grading , Assignments and material handling
-        * Assist 3 sections of Undergraduate students with Data Analytics for accounting
-        * Assist 1 section of Graduate students with advanced Data Analytics for Accounting
+        * Supervised 3 Undergraduate Accounting Sections with Data Analysis and Basics of Data Engineering in lab
+        * Supervised 1 Graduate Accounting Section with Big data ETL process and Data Analytics prior to Modelling
+        * Graded Assignments , monitored discussion groups, assisted in Lab Work and Exams*
+
     
         
   - title: Teaching Assistant
