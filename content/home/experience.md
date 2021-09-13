@@ -38,7 +38,21 @@ experience:
         * Assist in developing graphs and charts using Excel, Access, Crystal Reports and any other charting software.
         * Assists in research, analysis, review, and other related activities in the department
         
-  - title: Data Structures and Algorithms Interviewer
+  - title: Teaching Assistant
+    company: California State University , Sacramento
+    company_url: 'https://www.csus.edu/graduate-studies/unit-11/job-listings.html'
+    company_logo: org-csu
+    location: California
+    date_start: '2021-09-01'
+    date_end: ''
+    description: |2-
+        
+        * Assist Professor with Instruction, Grading , Assignments and material handling
+        * Assist 3 sections of Undergraduate students with Data Analytics for accounting
+        * Assist 1 section of Graduate students with advanced Data Analytics for Accounting
+    
+        
+  - title: Teaching Assistant
     company: S30 ELearning
     company_url: 'https://www.thes30.com/'
     company_logo: org-s30
@@ -50,6 +64,8 @@ experience:
         * {S30} is an Online interview preparation platform that trains brilliant minds to land their dream jobs.
         * Mentor {S30} members in their interview preparations
         * Conducts mock interviews
+        * Check the correctness of the algorithms submitted by the students and its Space and Time Complexities.
+        * Update PR status of cohort assigned and enable materials availability to students
   
   - title: Peer Mentor
     company: California State University-Sacramento
@@ -57,7 +73,7 @@ experience:
     company_logo: org-csu
     location: Sacramento,CA
     date_start: '2020-07-24'
-    date_end: ''
+    date_end: '2021-09-01'
     description: |2-
     
         * Attend one First Year Seminar (FYS) class each week (1-2 hours)
