@@ -6,7 +6,7 @@ title: Brunda Suresh
 superuser: true
 
 # Role/position/tagline
-role: Data Engineering|Data Analyst|Software Engineer
+role: Love for working with data
 
 # Organizations/Affiliations to show in About widget
 organizations:
