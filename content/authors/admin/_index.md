@@ -50,6 +50,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/brundas/
+- icon: instagram
+  icon_pack: fas
+  link: https://www.instagram.com/kali_kannada_nudi/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
