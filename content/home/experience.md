@@ -44,7 +44,7 @@ experience:
     company_logo: org-csu
     location: Sacramento,CA
     date_start: '2021-09-01'
-    date_end: ''
+    date_end: '2021-12-17'
     description: |2-
         
         * Supervised 3 Undergraduate Accounting Sections with Data Analysis and Basics of Data Engineering in lab

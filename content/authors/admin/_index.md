@@ -68,6 +68,6 @@ email: ""
 highlight_name: false
 ---
 
-I am a computer Science graduate student who enjoys working with data.I currently am a Student Assistant/Intern at Caltrans, D11, San Diego until December 2021 which is also when I will be graduating.I am looking to start full time work as early as Dec 18th 2021. Feel free to scroll along to know more about me.  
+I am a computer Science graduate student who enjoys working with data.I currently am a Student Assistant/Intern at Caltrans, D11, San Diego until May 2022 which is also when I will be graduating.I am looking to start full time work as early as May 22nd 2021. Feel free to scroll along to know more about me.  
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
