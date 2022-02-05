@@ -50,7 +50,7 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/brundas/
-- icon: instagram
+- icon: book-reader
   icon_pack: fas
   link: https://www.instagram.com/kali_kannada_nudi/
 
